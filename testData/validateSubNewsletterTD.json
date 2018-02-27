@@ -1,0 +1,6 @@
+{
+    "validateSubNewsletterTD": {
+        "emailDomain": "@test.com",
+        "validationMsg": "Newsletter : You have successfully subscribed to this newsletter."
+    }
+}

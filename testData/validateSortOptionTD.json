@@ -1,0 +1,9 @@
+{
+    "validateSortOptionTD": {
+
+        "SearchCode": "short",
+        "selectValue1": "price:asc",
+        "selectLabel1": "Price: Lowest first"
+
+    }
+}

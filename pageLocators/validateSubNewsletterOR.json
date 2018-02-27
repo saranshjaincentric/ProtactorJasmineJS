@@ -1,0 +1,7 @@
+{
+    "validateSubNewsletter": {
+        "enterEmail": "/html//input[@id='newsletter-input']",
+        "confirm": "//div[@id='newsletter_block_left']//form[@action='http://automationpractice.com/index.php']//button[@name='submitNewsletter']",
+        "success": "//div[@id='columns']/p[@class='alert alert-success']"
+    }
+}

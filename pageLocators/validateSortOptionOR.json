@@ -1,0 +1,9 @@
+{
+    "validateSortOption": {
+       
+        "srchBox": "/html//input[@id='search_query_top']",
+        "srchSubmit": "//form[@id='searchbox']/button[@name='submit_search']",
+        "srchType": "/html//select[@id='selectProductSort']"
+
+    }
+}

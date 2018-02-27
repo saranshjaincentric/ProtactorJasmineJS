@@ -1,0 +1,6 @@
+{
+    "validateProductCheckout": {
+        "clickProd": "/html//ul[@id='homefeatured']/li[1]/div[@class='product-container']//h5/a[@title='Faded Short Sleeve T-shirts']",
+        "addProdBtn": "//p[@id='add_to_cart']//span[.='Add to cart']"
+    }
+}
