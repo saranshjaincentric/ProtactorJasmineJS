@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns2:test-suite xmlns:ns2="urn:model.allure.qatools.yandex.ru" start="1519922825249" stop="1519922844438">
+	<name>Subscribe to newsletter</name>
+	<title>Subscribe to newsletter</title>
+	<test-cases>
+		<test-case start="1519922825250" stop="1519922844438" status="passed">
+			<name>Validate Subscribe to newsletter feature</name>
+			<title>Validate Subscribe to newsletter feature</title>
+			<description></description>
+			<labels>
+			</labels>
+			<steps>
+			</steps>
+			<attachments>
+				<attachment title="Screenshot" source="448f0b4a-34be-4604-b58d-8e014afbbd96-attachment.png" type="image/png" size="467010"/>
+			</attachments>
+		</test-case>
+	</test-cases>
+</ns2:test-suite>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns2:test-suite xmlns:ns2="urn:model.allure.qatools.yandex.ru" start="1519840834316" stop="1519840869286">
+	<name>Filling contact us form</name>
+	<title>Filling contact us form</title>
+	<test-cases>
+		<test-case start="1519840834316" stop="1519840869285" status="passed">
+			<name>Validate filling contact-us form and submit</name>
+			<title>Validate filling contact-us form and submit</title>
+			<description></description>
+			<labels>
+			</labels>
+			<steps>
+			</steps>
+			<attachments>
+				<attachment title="Screenshot" source="918778db-9701-4d5f-82e9-07162632c858-attachment.png" type="image/png" size="138711"/>
+			</attachments>
+		</test-case>
+	</test-cases>
+</ns2:test-suite>

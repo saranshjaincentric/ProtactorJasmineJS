@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns2:test-suite xmlns:ns2="urn:model.allure.qatools.yandex.ru" start="1519840359674" stop="1519840381800">
+	<name>Select a product and add to cart</name>
+	<title>Select a product and add to cart</title>
+	<test-cases>
+		<test-case start="1519840359674" stop="1519840381800" status="passed">
+			<name>Validate that the product is selected and succesfully added to cart</name>
+			<title>Validate that the product is selected and succesfully added to cart</title>
+			<description></description>
+			<labels>
+			</labels>
+			<steps>
+			</steps>
+			<attachments>
+				<attachment title="Screenshot" source="ea9d8256-f27a-4a35-b2c7-096fe51bbfef-attachment.png" type="image/png" size="198020"/>
+			</attachments>
+		</test-case>
+	</test-cases>
+</ns2:test-suite>

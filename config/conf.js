@@ -21,9 +21,9 @@ exports.config = {
 		capabilities: {
 			'browserName': 'chrome', //can use 'firefox' or 'chrome'
 			
-/*      				chromeOptions: {
-					args: [ "--headless"]
-				},   */ 
+/*       				chromeOptions: {
+							args: ["--headless", "--disable-gpu", "--window-size=800x600"]
+				},  */  
  
 		},
 
@@ -82,8 +82,9 @@ exports.config = {
 			});
 			// --- allure - reporter ---			
 
-			// Override the timeout for webdriver.
-			browser.manage().timeouts().setScriptTimeout(60000);
+			//browser.manage().timeouts().setScriptTimeout(60000); // script timeout
+
+			//browser.manage().timeouts().implicitlyWait(30000); // implicit wait
 
 		},
 

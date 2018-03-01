@@ -3,7 +3,7 @@
 		"selectValue": "2",
 		"emailAdd": "test@test.com",
 		"emailInvalid": "this is invalid email",
-		"msgTxt": "Hello, I am having a good time coding for Axelerant!",
+		"msgTxt": "Hello, I am having a good time coding!",
 		"validationMsg": "Invalid email address.",
 		"validationMsg2": "Your message has been successfully sent to our team."
 	}
