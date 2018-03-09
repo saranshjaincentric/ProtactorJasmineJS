@@ -40,11 +40,11 @@ exports.config = {
 				], */
 
 			functional: [
-				'../tests/validateProductCheckout_spec.js',
-				'../tests/validateFillingContactUsForm_spec.js',
-				'../tests/validateEmailVerification_spec.js',
+				//'../tests/validateProductCheckout_spec.js',
+				//'../tests/validateFillingContactUsForm_spec.js',
+				//'../tests/validateEmailVerification_spec.js',
 				'../tests/validateSubNewsletter_spec.js',
-				'../tests/validateSortOption_spec.js',
+				//'../tests/validateSortOption_spec.js',
 			],
 			
 			smoke: ['../smoke_tests/*_spec.js'],
