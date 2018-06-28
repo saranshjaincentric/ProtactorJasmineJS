@@ -10,7 +10,7 @@ exports.config = {
 		//params to use in scripts
 		params: {
 			login: {
-				url: 'http://automationpractice.com/index.php',
+				url: 'http://ihsmarkit.com/index.php',
 				user: 'test',
 				password: 'test'
 			}
